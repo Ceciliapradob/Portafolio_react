@@ -1,0 +1,66 @@
+
+.contact {
+  background: linear-gradient(yellow, rgb(250, 88, 250));
+    margin-top: 3%;
+    padding: 50px 0;
+    margin-bottom: 5%;
+  }
+  .contact-form h2{
+    margin-bottom: 20px;
+  }
+  
+  .contact-form {
+    max-width: 400px;
+    margin: 0 auto;
+    background: none;
+    border: 2px solid gray;
+    border-radius: 8px;
+    padding: 20px;
+    color: black;
+  }
+  
+  .form-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  .enviar{
+    cursor: pointer;
+  }
+  label {
+    margin-bottom: 5px;
+  }
+  
+  input,
+  textarea {
+    padding: 10px;
+    border: 1px solid gray;
+    border-radius: 6px;
+    background-color: transparent;
+    color: black;
+  }
+  
+  textarea {
+    resize: vertical;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    border: none;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
+    cursor: pointer;
+    transition: background-color 0.3s, color 0.3s;
+  }
+  
+  .btn.white-btn {
+    background-color: gray;
+    color: white;
+  }
+  
+  .btn:hover {
+    background-color: black;
+    color: white;
+  }
+  

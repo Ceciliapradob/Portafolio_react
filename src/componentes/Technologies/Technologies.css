@@ -1,0 +1,47 @@
+/* Technologies.css */
+.technologies {
+    background: linear-gradient(yellow, rgb(250, 88, 250));
+    width: 100%;
+    text-align: center;
+    padding: 35px 0;
+    margin-bottom: 3%;
+
+  }
+  .technologies h2{
+    margin-bottom: 20px;
+    font-size: 36px;
+  }
+  
+  .icons {
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    gap: 3rem;
+    
+  }
+  
+  /* Cambiar el color de cada ícono */
+  .html {
+    color: red;
+  }
+  
+  .css {
+    color: blue;
+  }
+  
+  .js {
+    color: yellow;
+  }
+  
+  .react {
+    color: cyan;
+  }
+  
+  .node {
+    color: green;
+  }
+  
+  .mongodb {
+    color: #13aa52; /* Color personalizado para MongoDB */
+  }
+  

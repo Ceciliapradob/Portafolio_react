@@ -1,0 +1,7 @@
+export { Header } from './Header/Header'
+export { Main } from './Main/Main'
+export { About } from './About/About'
+export { Technologies } from './Technologies/Technologies'
+export { Certificates } from './Certificates/Certificates'
+export { Contact } from './Contact/Contact'
+export { Footer } from './Footer/Footer'

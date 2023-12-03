@@ -1,0 +1,30 @@
+/* Footer.css */
+.footer {
+    background-color: black;
+    color: yellow;
+    text-align: center;
+    padding: 20px 0;
+
+}
+
+.footer-content {
+    display: flex;
+    justify-content:center;
+    gap: 15rem;
+    align-items: center;
+    padding: 20px;
+
+}
+
+
+
+
+.github{
+    color: white;
+    font-size: 20px;
+}   
+
+.linkedin{
+    color: rgb(0, 149, 255);
+    font-size: 20px;
+}
